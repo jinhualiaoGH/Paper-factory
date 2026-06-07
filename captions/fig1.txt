@@ -1,0 +1,1 @@
+Cross-entropy decreases as Markov order increases, indicating stronger predictability in the prime sequence.

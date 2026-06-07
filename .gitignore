@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+.vscode/
+
+output/*.docx
+output/*.pdf
+
+*.zip
+
+*.log
+
+.env

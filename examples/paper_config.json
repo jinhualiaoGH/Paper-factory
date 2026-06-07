@@ -1,0 +1,15 @@
+{
+  "title": "P52 Arithmetic Markovity",
+  "authors": [
+    "Jinhua Liao"
+  ],
+  "affiliation": "Independent Researcher",
+  "email": "jinhualiao@yahoo.com",
+  "markdown_file": "paper.md",
+  "bibliography_style": "IEEE",
+  "references": [
+    "Shannon, C. E. (1948). A Mathematical Theory of Communication. Bell System Technical Journal, 27(3), 379-423.",
+    "Cover, T. M., & Thomas, J. A. (2006). Elements of Information Theory (2nd ed.). Wiley.",
+    "Tao, T. (2014). Bounded gaps between primes. Proceedings of the International Congress of Mathematicians (ICM 2014), Seoul, Korea, Vol. II, pp. 363-383."
+  ]
+}
